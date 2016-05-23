@@ -8,7 +8,7 @@
     "main" : "index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/fouber/fis-preprocessor-image-set.git"
+        "url": "https://github.com/zyfyh8023/fis-parser-tpl-strip.git"
     },
     "engines" : {
         "node" : ">= 0.8.0"
