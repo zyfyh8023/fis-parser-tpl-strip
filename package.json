@@ -1,9 +1,9 @@
 {
     "name" : "fis-parser-tpl-strip",
     "description" : "tpl strip",
-    "version" : "0.0.1",
-    "author" : "FIS Team <fis@baidu.com>",
-    "homepage" : "http://fis.baidu.com/",
+    "version" : "0.2.1",
+    "author" : "zy<zyfyh8023@163.com>",
+    "homepage" : "https://github.com/zyfyh8023",
     "keywords": [ "fis", "tpl" ],
     "main" : "index.js",
     "repository": {
